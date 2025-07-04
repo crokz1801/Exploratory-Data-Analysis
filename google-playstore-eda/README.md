@@ -57,9 +57,15 @@ Steps taken:
   - Boxplots comparing `Installs` with `Rating`
   - Distribution plots of `Price` and `Rating`
   - Top 10 categories by number of installs
-    | ![EDA Plot](graph1.png)) |![EDA Plot](graph2.png)| ![EDA Plot](graph3.png) |
-|:----------------------:|:----------------------:|:----------------------:|
-| Caption 1              | Caption 2              | Caption 3              |
+
+<table>
+  <tr>
+    <td><img src="graph1.png" width="300"/></td>
+    <td><img src="graph2.png" width="300"/></td>
+    <td><img src="graph3.png" width="300"/></td>
+  </tr>
+
+</table>
 
 
 
