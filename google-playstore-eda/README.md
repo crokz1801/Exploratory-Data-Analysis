@@ -80,6 +80,12 @@ Steps taken:
 
 ├── googleplaystore_EDA.ipynb # Colab/Jupyter Notebook
 
+├── IMG
+
+├── IMG
+
+├── IMG
+
 └── README.md # Project overview
 
 
